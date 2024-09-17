@@ -23,3 +23,5 @@ Use it responsibly and with caution on your own personal computer. Keyloggers at
 - Avoid start-up runs or self-copying.
 - Avoid using random generators.
 
+## Debugging
+Everyone is welcome to raise ISSUES.
