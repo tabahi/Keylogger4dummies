@@ -1,3 +1,9 @@
+KLG4D/x64/Debug
+KLG4D/x64/Release
+*/.vs
+*.txt
+!Readme.txt
+
 # Prerequisites
 *.d
 
