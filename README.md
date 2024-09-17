@@ -7,6 +7,7 @@ A compiled executable for Win_x64 can be found in [compiled_v0.1_KLG4D.zip](./co
 
 ## Visual Studio Solution
 - Install Visual Studio Community from https://visualstudio.microsoft.com/vs/community/
+- Select Windows SDK during installation.
 - Clone this repo to a local directory.
 - Open the solution file in Visual Studio: [KLG4D.sln](./KLG4D) 
 - Edit the code in [KLG4D.cpp](./KLG4D/KLG4D/KLG4D.cpp) 
@@ -16,7 +17,7 @@ A compiled executable for Win_x64 can be found in [compiled_v0.1_KLG4D.zip](./co
 
 
 ## Safe Use
-Use it responsibly and with caution on your own personal computer. Keyloggers attract the attention of intelligent anti-viruses therefore avoid adding any suspicious of code to it. To avoid raising red flags, here are a few tips:
+Use it responsibly and with caution on your own personal computer. Keyloggers attract the attention of intelligent anti-viruses therefore avoid adding any suspicious code to it. To avoid raising red flags, here are a few tips:
 - Avoid using timestamps, user or system variables (e.g., PC name, IP, mac-addresses).
 - Avoid reading registery keys.
 - Avoid start-up runs or self-copying.
